@@ -665,21 +665,10 @@ PGP Key: [Download](https://polyvibe.ai/pgp-key.asc)
 ## 🏆 Acknowledgments
 
 ### Core Contributors
-- [@alexchen](https://github.com/alexchen) - Protocol Architecture
-- [@sarahkim](https://github.com/sarahkim) - AI Systems
-- [@marcus](https://github.com/marcus) - Smart Contracts
-- [@jwelsh](https://github.com/jwelsh) - Frontend
 
 ### Partners
-- OpenAI - AI Infrastructure
-- Ethereum Foundation - Blockchain
-- IPFS - Decentralized Storage
-- Chainlink - Oracle Services
 
 ### Advisors
-- Vitalik Buterin - Technical Advisor
-- Naval Ravikant - Economic Advisor
-- Balaji Srinivasan - Strategy Advisor
 
 ## 📄 License
 
